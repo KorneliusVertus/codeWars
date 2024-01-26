@@ -20,5 +20,5 @@ console.log(even_or_odd(5));
 
 // console.log(myFan()) // 7
 
-// let [one, two, three] = foo; // MDN почему у них так?
+// let [one, two, three] = foo; // MDN почему у них так? В консоле ошибка
 // console.log(foo);
